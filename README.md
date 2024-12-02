@@ -67,7 +67,7 @@ sudo certbot renew --dry-run
 ```
 - To renew cerficate
 ```bash
-sudo cerbot renew
+sudo certbot renew
 ```
 
 ###
